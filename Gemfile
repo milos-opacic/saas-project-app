@@ -15,7 +15,8 @@ gem 'milia'
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'devise-bootstrap-views'
-gem "font-awesome-rails"
+gem 'font-awesome-rails'
+gem 'bootstrap-datepicker-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
